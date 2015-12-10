@@ -6,7 +6,7 @@
 ::: ##:::: ##:::: ##: ##::::::::::'##::: ##: ##:::::::::: ##:::: ##:::: ##: ##::::::::
 ::: ##:::: ##:::: ##: ########::::. ######:: ########:::: ##::::. #######:: ##::::::::
 :::..:::::..:::::..::........::::::......:::........:::::..::::::.......:::..:::::::::
-# Best viewed in raw
+# Best viewed in raw #
 
 ## Mac OSX applications:
 | Name                       | Purpose                                        | URL                                   |
@@ -24,6 +24,7 @@
 | Dropbox                    | Filesync                                       | https://www.dropbox.com               |
 | Due                        | Timers & reminders OSX/iOS                     | http://www.dueapp.com/mac.html        |
 | Fantastical                | Best Calendar app for OSX/iOS                  | http://flexibits.com/fantastical      |
+| Finderpath                 | Decent Adressbar in Finder                     | https://bahoom.com/finderpath/        |
 | F.lux                      | Adjust screen temperature based on time of day | https://justgetflux.com               |
 | FruitJuice                 | Battery monitor and management                 | http://fruitjuiceapp.com/             |
 | Google Chrome              | Chrome browser                                 | https://www.google.com/intl/en/chrome/browser/?platform=mac |
@@ -39,6 +40,7 @@
 | Piezo                      | Charmingly simple recording                    | http://rogueamoeba.com/piezo/         |
 | Safari                     | Browser of preference                          | http://www.apple.com/safari/          |
 | Slack                      | Go Team!                                       | https://slack.com/                    |
+| Spectacle                  | Move and resize windows with keyboard          | http://spectacleapp.com/              |
 | TextExpander               | Type more with less effort                     | https://smilesoftware.com/TextExpander |
 | TextMate                   | The missing editor                             | http://macromates.com |
 | TorBrowser                 | Protect your privacy                           | https://www.torproject.org |
@@ -52,11 +54,20 @@
 | Yate                       | Audio tagger                                   | http://2manyrobots.com/yate/ |
 
 
-## Terminal:   
-| Name   | Purpose                       | URL                          |
-|--------|-------------------------------|------------------------------|
-| Icdiff | improved colored diff         | http://www.jefftk.com/icdiff |
-
+## Terminal — Homebrew formulae:
+| Name                       | Purpose                                        | URL                                                    |
+|----------------------------|------------------------------------------------|--------------------------------------------------------|
+| Icdiff                     | improved colored diff                          | http://www.jefftk.com/icdiff                           |
+| GNU core utilities         | Coreutils - GNU core utilities                 | https://www.gnu.org/software/coreutils/coreutils.html  |
+| git                        | Git is a free and open source distributed version control system | http://git-scm.com/                  |
+| ack                        | ack 2.14 is a tool like grep, optimized for programmers | http://betterthangrep.com/                    |
+| bash                       | latest version rather than the out-dated OS X installation | http://wiki.bash-hackers.org/bash4         |
+| bash-completion2           | completes things in the blink of an eye        | http://bash-completion.alioth.debian.org/              |
+| node                       | Node.js® is a JavaScript runtime | http://nodejs.org/ |
+| optipng                    | A PNG optimizer that recompresses image files to a smaller size, without losing any information. | http://optipng.sourceforge.net/ |
+| rsync                      | latest version, rather than the out-dated OS X installation | https://rsync.samba.org/                  |
+| tree                       | Tree is a recursive directory listing command  | http://mama.indstate.edu/users/ice/tree/               |
+| wget                       | Retrieve files using HTTP, HTTPS and FTP       | http://www.gnu.org/software/wget/)                     |
 
 ## Mac Hardware:  
 
@@ -67,6 +78,7 @@
 
 - ifi iDSD USB DAC Headphone Amplifier
 - Sennheiser HD650 Reference headphones
+- Uptone audio USB REGEN
 
 
 ## iOS Hardware:  
