@@ -69,16 +69,16 @@
 | tree                       | Tree is a recursive directory listing command  | http://mama.indstate.edu/users/ice/tree/               |
 | wget                       | Retrieve files using HTTP, HTTPS and FTP       | http://www.gnu.org/software/wget/)                     |
 
-## Mac Hardware:  
 
+## Mac Hardware:  
 - **MacBook Pro:** Retina, 15-inch, Late 2013
 **Processor:** 2.6 GHz Intel Core i7
 **Memory:** 16GB 1600MHz DDR3
 **Graphics:** NVIDIA GeForce GT 750M, 2048MB
 
-- ifi iDSD USB DAC Headphone Amplifier
+- ifi [iDSD micro](http://ifi-audio.com/portfolio-view/micro-idsd/) USB DAC Headphone Amplifier
 - Sennheiser HD650 Reference headphones
-- Uptone audio USB REGEN
+- Uptone audio [USB REGEN](http://uptoneaudio.com/products/usb-regen)
 
 
 ## iOS Hardware:  
@@ -88,3 +88,7 @@
 ## Network:  
 - Apple AirPort Extreme 802.11n (5th Generation)
 - Sinology DS215j NAS
+
+
+## Environment setup
+Refer to my [dotfiles](https://github.com/davidglidden/dotfiles).
